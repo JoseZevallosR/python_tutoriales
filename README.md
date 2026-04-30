@@ -45,4 +45,4 @@ Para seguir este curso, necesitas tener Python y algunos paquetes instalados. Aq
    cd clases
    ```
 
-![HitCount](https://hits.dwyl.com/JoseZevallosR/python_tutoriales.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JoseZevallosR/python_tutoriales)
