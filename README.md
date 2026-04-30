@@ -45,4 +45,4 @@ Para seguir este curso, necesitas tener Python y algunos paquetes instalados. Aq
    cd clases
    ```
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DesarrolloSistemasANA.clases)
+![HitCount](https://hits.dwyl.com/DesarrolloSistemasANA/clases.svg)
