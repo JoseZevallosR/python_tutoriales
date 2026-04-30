@@ -43,3 +43,6 @@ Para seguir este curso, necesitas tener Python y algunos paquetes instalados. Aq
    ```bash
    git clone https://github.com/DesarrolloSistemasANA/clases.git
    cd clases
+   ```
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DesarrolloSistemasANA.clases)
