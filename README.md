@@ -45,4 +45,14 @@ Para seguir este curso, necesitas tener Python y algunos paquetes instalados. Aq
    cd clases
    ```
 
+2. **Crea un entorno virtual con Conda:**
+
+   Se recomienda crear un entorno independiente para evitar conflictos con otras instalaciones de Python. El entorno se llamará `SH`.
+
+   ```bash
+   conda create -n SH python=3.11
+   conda activate SH
+   pip install -r requirements.txt
+   ```
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=JoseZevallosR/python_tutoriales)

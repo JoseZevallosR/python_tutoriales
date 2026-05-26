@@ -1,0 +1,20 @@
+# Scientific computing and data analysis
+numpy
+pandas
+
+# Geospatial analysis
+geopandas
+rasterio
+folium
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook environment
+jupyter
+notebook
+
+# Git operations from Python
+# Allows commands such as clone, pull, fetch, checkout, etc. from Python scripts.
+GitPython
